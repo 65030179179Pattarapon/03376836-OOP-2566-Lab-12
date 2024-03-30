@@ -1,0 +1,5 @@
+D:\03376836-OOP-2566-Lab-12\65030179_Lab12\obj\Debug\net8.0\65030179_Lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\03376836-OOP-2566-Lab-12\65030179_Lab12\obj\Debug\net8.0\65030179_Lab12.AssemblyInfoInputs.cache
+D:\03376836-OOP-2566-Lab-12\65030179_Lab12\obj\Debug\net8.0\65030179_Lab12.AssemblyInfo.cs
+D:\03376836-OOP-2566-Lab-12\65030179_Lab12\obj\Debug\net8.0\65030179_Lab12.csproj.CoreCompileInputs.cache
+D:\03376836-OOP-2566-Lab-12\65030179_Lab12\obj\Debug\net8.0\65030179_Lab12.sourcelink.json
